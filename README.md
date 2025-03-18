@@ -1,4 +1,4 @@
-A practice of get feature from images for matching based on SIFT.
+A practice of extracting feature from images for matching based on SIFT.
 
 After getting all the keypoints and its descripters, a bag of visual words is created and used for macthing.
 
