@@ -2,7 +2,7 @@ A practice of extracting feature from images for matching based on SIFT.
 
 After getting all the keypoints and its descripters, a bag of visual words is created and used for macthing.
 
-The image files I got from University of Macau are too large to upload, please put your images in './data/images' to try.
+The image files I got from University of Macau are too large to upload, please put your images in './data/images' and have a try.
 
 Matching usting brute force matching
 
