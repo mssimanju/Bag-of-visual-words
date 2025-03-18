@@ -4,7 +4,7 @@ After getting all the keypoints and its descripters, a bag of visual words is cr
 
 The image files I got from University of Macau are too large to upload, please put your images in './data/images' and have a try.
 
-Matching usting brute force matching
+Matching using brute force matcher
 
 <img width="683" alt="联想截图_20250318160636" src="https://github.com/user-attachments/assets/8c41d830-854c-44ca-b71a-75c016f1d650" />
 
